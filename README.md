@@ -1,1 +1,1 @@
-Review "Submission Document" for detailed project information.
+Review "Project Details" for detailed project information.
